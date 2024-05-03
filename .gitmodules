@@ -1,3 +1,6 @@
 [submodule "Mealddang_API"]
 	path = Mealddang_API
 	url = ../Mealddang_API
+[submodule "Mealddang_web"]
+	path = Mealddang_web
+	url = ../Mealddang_web
