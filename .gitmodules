@@ -1,6 +1,7 @@
 [submodule "Mealddang_API"]
 	path = Mealddang_API
 	url = ../Mealddang_API
+	branch = refs/tags/0.0.0
 [submodule "Mealddang_web"]
 	path = Mealddang_web
 	url = ../Mealddang_web
